@@ -1,4 +1,4 @@
-["Twitter", "Facebook", "Github", "Draw Something", "Tumblr", "Basecamp", "Dropbox", "Pinboard", "Instapaper", "Foursquare", "LinkedIn", "Meetup", "Instagram", "Flickr", "eBay", "Stripe", "Etsy", "Square", "Spotify", "Evernote", "5by5", "Dribbble", "Chat Roulette", "Twillio", "Amazon", "Vimeo", "Shopify", "Pivotal Tracker", "Squarespace", "Netflix", "Airbnb", "Flipboard", "Justin.tv", "Groupon", "Rackspace", "Soundcloud", "Clout", "Reddit", "Disqus", "Wufoo", "Speakerdeck", "Lanyrd", "Coderwall", "Bitly"].each do |name|
+["Twitter", "Facebook", "Github", "Draw Something", "Tumblr", "Basecamp", "Dropbox", "Pinboard", "Instapaper", "Foursquare", "LinkedIn", "Meetup", "Instagram", "Flickr", "eBay", "Stripe", "Etsy", "Square", "Spotify", "Evernote", "5by5", "Dribbble", "Chat Roulette", "Twillio", "Amazon", "Vimeo", "Shopify", "Pivotal Tracker", "Squarespace", "Netflix", "Airbnb", "Flipboard", "Justin.tv", "Groupon", "Rackspace", "Soundcloud", "Klout", "Reddit", "Disqus", "Wufoo", "Speakerdeck", "Lanyrd", "Coderwall", "Bitly"].each do |name|
   Product.create(name: name)
 end
 
