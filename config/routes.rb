@@ -1,4 +1,6 @@
 Pump::Application.routes.draw do
+  resources :markets
+
   resources :products
 
   # The priority is based upon order of creation:
