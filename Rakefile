@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Pump::Application.load_tasks
+Scicombinator::Application.load_tasks
