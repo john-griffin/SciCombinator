@@ -39,7 +39,7 @@ Analytical chemists
 Biochemists
 Inorganic chemists
 Organic chemists
-Physical chemist
+Physical chemists
 Earth scientists
 Geologists
 Glaciologists
